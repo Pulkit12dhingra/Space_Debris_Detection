@@ -1,0 +1,10 @@
+pandas
+numpy
+sgp4
+scikit-learn
+imbalanced-learn
+scipy
+matplotlib
+pykalman
+keras
+requests
